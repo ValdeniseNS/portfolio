@@ -1,0 +1,89 @@
+---
+title: "Prof. Valdenise Noberto dos Santos"
+subtitle: "Aluna & Pesquisadora | Departamento de Estatística | UEPB"
+image: figuras/val.png
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/valdenise-noberto-santos-876803298/
+    - icon: github
+      text: Github
+      href: https://github.com/ValdeniseNS
+    - icon: envelope
+      text: Email
+      href: mailto:valdenisenoberto2018@gmail.com
+format:
+  html:
+    theme: 
+      light: ["cosmo", "custom.scss"]
+      dark: ["darkly", "custom.scss"]
+    css: 
+      - styles.css
+      - custom.scss
+
+---
+
+## Sobre mim
+
+Sou Licenciada em Matemática (UFCG) e graduanda em Estatística (UEPB), com especialização em Ensino de Matemática para o Ensino Médio (IFRN). Atuo como monitora de Inferência Estatística e possuo formação em análise de dados, estatística aplicada e ferramentas computacionais (R, Excel, Power BI, Python). Tenho interesse em estimativas estatísticas, processos estocásticos, qualidade dos dados e metodologias ativas de ensino. Atualmente, sou bolsista no projeto PIBIC: Estudo Estatístico da Qualidade dos Dados Administrativos Brasileiros como Base para Tomadas de Decisão.  
+
+### Áreas de Interesse
+
+::: {.areas}
+<span>Estatística Aplicada</span>
+<span>Ciência de Dados</span>
+<span>Inferência Estatística</span>
+:::
+
+### Formação
+
+::: {.grid}
+
+::: {.g-col-4}
+**Especialização em Estatística Computacional Aplicada**  
+UFMG | -
+:::
+
+::: {.g-col-4}
+**Bacharelado em Estatística**  
+UEPB | -
+:::
+
+::: {.g-col-4}
+**Especialização em Ensino de Matemática para o Ensino Médio**  
+IFRN | 2022
+:::
+
+::: {.g-col-4}
+**Licenciatura em Matemática**  
+UFCG | 2015
+:::
+
+:::
+
+### Projeto de Pesquisa em Destaque
+
+::: {.project-grid}
+
+::: {.project-card .project}
+### Estudo Estatístico da Qualidade dos Dados Administrativos Brasileiros
+**Bolsista de Iniciação Científica (PIBIC/UEPB)**
+
+**Objetivo Principal:**  
+Avaliar a qualidade das bases públicas do **SIVEP-Gripe (DATASUS)** de 2020 a 2026, focando em critérios de integridade, consistência temporal, cobertura e confiabilidade para subsidiar a Tomada de Decisão Orientada por Dados (DDDM).
+
+**Abordagem Prática e Recorte:**  
+Construção de uma base analítica otimizada focando nas internações por COVID-19 nas 5 Unidades Federativas (UFs) de maior volume da Região Nordeste, reduzindo o custo computacional de processamento.
+
+**Metodologia Estatística Aplicada (via Linguagem R):**
+  
+**Pré-processamento & Crítica:** Limpeza, identificação de dados faltantes (NA), remoção de duplicatas e tratamento de inconsistências de registro;
+
+**Análise Exploratória (EDA):** Uso de histogramas e boxplots para detecção de valores atípicos (outliers) e análise de consistência temporal;
+
+**Testes Não Paramétricos:** Aplicação de testes de **Qui-Quadrado** (variáveis categóricas), **Mann-Whitney** (comparação entre dois grupos) e **Kruskal-Wallis** (múltiplos grupos).
+:::
+
+:::

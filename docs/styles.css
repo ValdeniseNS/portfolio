@@ -1,0 +1,92 @@
+/* css styles */
+
+/* Caixas de Informação */
+.info-box {
+  text-align: center;
+  padding: 20px;
+  background: #f8f9fa;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.info-box i {
+  font-size: 2rem;
+  color: #2e7d32; /* CORRIGIDO: Verde Escuro */
+  margin-bottom: 10px;
+}
+
+/* Linha do Tempo (Timeline) */
+.timeline {
+  position: relative;
+  padding-left: 30px;
+}
+
+.timeline-item {
+  position: relative;
+  padding-bottom: 30px;
+  border-left: 2px solid #4caf50; /* CORRIGIDO: Verde Principal */
+}
+
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  left: -8px;
+  top: 0;
+  width: 12px;
+  height: 12px;
+  background: #4caf50; /* CORRIGIDO: Verde Principal */
+  border-radius: 50%;
+}
+
+/* Imagens de Perfil / Sobre */
+.about-image img {
+  border-radius: 50%;
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+}
+
+/* Áreas de Atuação / Tags */
+.areas {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.areas span {
+  background-color: #e8f5e9; /* CORRIGIDO: Fundo Verde Claro */
+  color: #1b5e20;            /* ADICIONADO: Texto Verde Escuro para contraste */
+  padding: 8px 12px;
+  border-radius: 20px;
+  font-size: 0.9em;
+}
+
+/* Grade de Projetos */
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.project-card {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 12px;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  transition: all 0.2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(76, 175, 80, 0.25); /* CORRIGIDO: Sombra sutil verde */
+}
+
+.project h3 {
+  margin-top: 0;
+}
+
+.project strong {
+  color: #1b5e20; /* CORRIGIDO: Verde Escuro */
+}

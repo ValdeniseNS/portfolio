@@ -1,0 +1,23 @@
+---
+title: "Projetos de Pesquisa"
+format:
+  html:
+    css: styles.css
+---
+
+
+## Projetos em Andamento
+
+::: {.project-grid}
+
+::: {.project-card onclick="window.location='projeto1.html'"}
+### Estudo Estatístico da Qualidade dos Dados Administrativos Brasileiros
+**CNPq – PIBIC** (2026)  
+Pré-processamento,  Crítica e Análise Exploratória (EDA).
+:::
+
+
+
+:::
+
+

@@ -1,0 +1,27 @@
+---
+title: "Projetos de Pesquisa"
+format:
+  html:
+    css: styles.css
+---
+
+::: {.project}
+
+### Estudo Estatístico da Qualidade dos Dados Administrativos Brasileiros
+
+**Financiador:** CNPq – PIBIC  
+**Período:** 2026  
+**Coordenação:** Profª. Dra. Érika Fialho Morais Xavier  
+
+**Objetivo**  
+Avaliar a qualidade das bases públicas do **SIVEP-Gripe (DATASUS)** de 2020 a 2026, focando em critérios de integridade, consistência temporal, cobertura e confiabilidade para subsidiar a Tomada de Decisão Orientada por Dados (DDDM).
+
+**Equipe**
+- Profª. Dra. Érika Fialho Morais Xavier  
+- Valdenise N Santos  
+
+**Resultados Esperados**
+- Submissão de 1 artigo  
+
+:::
+

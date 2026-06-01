@@ -1,0 +1,26 @@
+---
+title: "Disciplinas"
+---
+
+
+## Estatística Computacional Avançada
+
+
+::: {.panel-tabset}
+
+## 📊 Informações
+
+**Código:** GRAD.01598| **Créditos:** 4 | **Carga Horária:** 60h  
+
+
+## ✏️ Exercícios
+- [Exemplos Didáticos](https://github.com/ValdeniseNS/estatistica_computacional)
+
+
+### Projetos/Seminários
+- [Atividade 1 UT2](https://github.com/ValdeniseNS/estatistica_computacional/blob/main/Atividade1UT2.Rmd)
+- [Atividade 1 UT2](https://github.com/ValdeniseNS/estatistica_computacional/blob/main/Atividade2UT2.Rmd)
+
+:::
+
+
