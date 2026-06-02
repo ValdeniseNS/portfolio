@@ -1,9 +1,33 @@
 ---
 title: "Curriculum Vitae"
 format:
-  html: default
-  pdf: default
+  pdf:
+    pdf-engine: xelatex
+    fontsize: 12pt
+    mainfont: "Times New Roman"
+    geometry:
+      - top=3cm
+      - bottom=2cm
+      - left=3cm
+      - right=2cm
 ---
+
+```{r}
+#| include: false
+
+# Configurações globais dos blocos de código
+knitr::opts_chunk$set(
+  echo = TRUE,
+  fig.crop = FALSE  # DESATIVA o pdfcrop para evitar o erro fatal do MiKTeX
+)
+
+# Ativa o modo detalhado para identificar outros problemas de compilação
+options(tinytex.verbose = TRUE)
+
+# Garante a codificação correta dos caracteres em português
+Sys.setlocale("LC_CTYPE", "pt_BR.UTF-8")
+```
+
 
 ## Dados Pessoais
 
@@ -16,7 +40,7 @@ format:
 **Endereço:** Rua Sizenando Paulino da Paixão, 354, Centro, Pedra Lavrada/PB
 **Celular:** (83) 98184-1349
 **WhatsApp:** (83) 98184-1349
-**Lattes:** [http://cnpq.br](http://cnpq.br)
+**Lattes:** [http://cnpq.br](https://lattes.cnpq.br/0640290162907725)
 **LinkedIn:** [https://www.linkedin.com/in/valdenise-noberto-santos-876803298/](https://www.linkedin.com/in/valdenise-noberto-santos-876803298/)
 **E-mail:** valdenisenoberto2018@gmail.com
 
