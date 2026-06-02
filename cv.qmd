@@ -1,38 +1,26 @@
 ---
 title: "Curriculum Vitae"
-format: 
+format:
   html: default
   pdf: default
 ---
 
 ## Dados Pessoais
 
-**Nome:** Valdenise Noberto dos Santos 
-
-**Nacionalidade:** Brasileira 
-
-**Estado Civil:** Solteira 
-
+**Nome:** Valdenise Noberto dos Santos
+**Nacionalidade:** Brasileira
+**Estado Civil:** Solteira
 **Sexo:** Feminino
-
 **Data de Nascimento:** 09/03/1992
-
 **Idade:** 34 anos
-
-**Endereço:** Rua Sizenado Paulino da Paixão, 354, Centro, Pedra Lavrada/PB
-
+**Endereço:** Rua Sizenando Paulino da Paixão, 354, Centro, Pedra Lavrada/PB
 **Celular:** (83) 98184-1349
-
 **WhatsApp:** (83) 98184-1349
-
-**Lattes:** [http://lattes.cnpq.br/](https://lattes.cnpq.br/0640290162907725)
-
-**Linkedin:** [https://www.linkedin.com/](https://www.linkedin.com/in/valdenise-noberto-santos-876803298/) 
-
-**Email:** valdenisenoberto2018@gmail.com
+**Lattes:** [http://cnpq.br](http://cnpq.br)
+**LinkedIn:** [https://www.linkedin.com/in/valdenise-noberto-santos-876803298/](https://www.linkedin.com/in/valdenise-noberto-santos-876803298/)
+**E-mail:** valdenisenoberto2018@gmail.com
 
 ## Formação Acadêmica
-
 
 * **Graduação em Licenciatura em Matemática (Licenciatura Plena)**
   * Instituição: Universidade Federal de Campina Grande (UFCG)
@@ -50,14 +38,14 @@ format:
   * Situação: Em andamento
 
 ## Experiência Profissional
- 
+
 * **Escola Municipal de Ensino Fundamental Ana Maria Gomes**
   * Cidade: Nova Picuí - Paraíba
   * Cargo: Professora
   * Período: 09/04/2019 a 26/12/2019
   * Funções: Ensino de Matemática no Ensino Fundamental (7° e 8° ano)
 
-* **Escola Municipal de Ensino Fundamental Maria Elenita de Vasconcelos Carvalhos**
+* **Escola Municipal de Ensino Fundamental Maria Elenita de Vasconcelos Carvalho**
   * Cidade: Pedra Lavrada - Paraíba
   * Cargo: Professora
   * Período: Anos Letivos de 2016 e 2017
@@ -69,13 +57,10 @@ format:
   * Título: Circo da Ciência – Experimentação para Contextualização
   * Instituição: Universidade Federal de Campina Grande (UFCG)
   * Carga horária: 192 horas | Ano: 2013
-  * Descrição: Espaço itinerante com apresentações de experimentos de Química, Física, Biologia e Matemática nas escolas
+  * Descrição: Espaço itinerante com apresentações de experimentos de Química, Física, Biologia e Matemática nas escolas.
 
 * **Voluntária em Projeto de Extensão - Pré-Vestibular**
   * Título: Curso Pré-Vestibular Solidário
   * Instituição: Universidade Federal de Campina Grande (UFCG)
-  * Carga horária: 120 horas | Ano: 2013
-  * Descrição: Professora da disciplina de Matemática
-
-
-
+  * Carga horária: 120 hours | Ano: 2013
+  * Descrição: Professora da disciplina de Matemática.
