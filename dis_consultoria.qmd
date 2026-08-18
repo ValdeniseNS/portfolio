@@ -2,42 +2,47 @@
 title: "Disciplinas"
 ---
 
+::: {.grid}
 
+::: {.g-col-6}
 ## Estatística Computacional Avançada
-
 
 ::: {.panel-tabset}
 
-## 📊 Informações
+### 📊 Informações
 
-**Código:** GRAD.01598| **Créditos:** 4 | **Carga Horária:** 60h  
+**Código:** GRAD.01598 | **Créditos:** 4 | **Carga Horária:** 60h  
 
+### ✏️ Exercícios
 
-## ✏️ Exercícios
 - [Exemplos Didáticos](https://github.com/ValdeniseNS/estatistica_computacional)
 
-
-### Projetos/Seminários
+#### Projetos/Seminários
 - [Atividade 1 UT2](https://github.com/ValdeniseNS/estatistica_computacional/blob/main/Atividade1UT2.Rmd)
-- [Atividade 1 UT2](https://github.com/ValdeniseNS/estatistica_computacional/blob/main/Atividade2UT2.Rmd)
+- [Atividade 2 UT2](https://github.com/ValdeniseNS/estatistica_computacional/blob/main/Atividade2UT2.Rmd)
 
 :::
+:::
 
+::: {.g-col-6}
+## Consultoria Estatística 
 
 ::: {.panel-tabset} 
 
-## 📊 Informações 
+### 📊 Informações 
 
-**Código:** GRAD.00683 | **Créditos:** 4 | **Carga Horária:** 60
+**Código:** GRAD.00683 | **Créditos:** 4 | **Carga Horária:** 60h
 
-## ✏️ Exercícios 
+### ✏️ Exercícios 
 
-- [Projeto de Consultoria Estatística](https://github.com/ValdeniseNS/statistical_consultancy.git) 
+- [Projeto de Consultoria Estatística](https://github.com/ValdeniseNS/statistical_consultancy) 
 
+#### Projetos/Seminários 
 
-### Projetos/Seminários 
+- [Projeto de Consultoria Estatística](https://github.com/ValdeniseNS/statistical_consultancy) 
 
-- [Projeto de Consultoria Estatística](https://github.com/ValdeniseNS/statistical_consultancy.git) 
+:::
+:::
 
 :::
 
