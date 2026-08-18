@@ -24,3 +24,20 @@ title: "Disciplinas"
 :::
 
 
+::: {.panel-tabset} 
+
+## 📊 Informações 
+
+**Código:** GRAD.00683 | **Créditos:** 4 | **Carga Horária:** 60
+
+## ✏️ Exercícios 
+
+- [Projeto de Consultoria Estatística](https://github.com/ValdeniseNS/statistical_consultancy.git) 
+
+
+### Projetos/Seminários 
+
+- [Projeto de Consultoria Estatística](https://github.com/ValdeniseNS/statistical_consultancy.git) 
+
+:::
+
