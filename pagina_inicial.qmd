@@ -51,6 +51,11 @@ UFMG | -
 UEPB | -
 :::
 
+::: {.g-col-4} 
+**Técnico em Planejamento e Controle da Produção Subsequente**
+IFSULDEMINAS | -
+:::
+
 ::: {.g-col-4}
 **Especialização em Ensino de Matemática para o Ensino Médio**  
 IFRN | 2022

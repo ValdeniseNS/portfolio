@@ -1,83 +1,10 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projetos de Pesquisa",
-    "section": "",
-    "text": "CNPq – PIBIC (2026)\nPré-processamento, Crítica e Análise Exploratória (EDA).",
-    "crumbs": [
-      "Início",
-      "Pesquisa",
-      "Projetos de Pesquisa"
-    ]
-  },
-  {
-    "objectID": "projects.html#projetos-em-andamento",
-    "href": "projects.html#projetos-em-andamento",
-    "title": "Projetos de Pesquisa",
-    "section": "",
-    "text": "CNPq – PIBIC (2026)\nPré-processamento, Crítica e Análise Exploratória (EDA).",
-    "crumbs": [
-      "Início",
-      "Pesquisa",
-      "Projetos de Pesquisa"
-    ]
-  },
-  {
-    "objectID": "pagina_inicial.html",
-    "href": "pagina_inicial.html",
-    "title": "Prof. Valdenise Noberto dos Santos",
-    "section": "",
-    "text": "Sou Licenciada em Matemática (UFCG) e graduanda em Estatística (UEPB), com especialização em Ensino de Matemática para o Ensino Médio (IFRN). Atuo como monitora de Inferência Estatística e possuo formação em análise de dados, estatística aplicada e ferramentas computacionais (R, Excel, Power BI, Python). Tenho interesse em estimativas estatísticas, processos estocásticos, qualidade dos dados e metodologias ativas de ensino. Atualmente, sou bolsista no projeto PIBIC: Estudo Estatístico da Qualidade dos Dados Administrativos Brasileiros como Base para Tomadas de Decisão.\n\n\n\nEstatística Aplicada Ciência de Dados Inferência Estatística\n\n\n\n\n\n\nEspecialização em Estatística Computacional Aplicada\nUFMG | -\n\n\nBacharelado em Estatística\nUEPB | -\n\n\nEspecialização em Ensino de Matemática para o Ensino Médio\nIFRN | 2022\n\n\nLicenciatura em Matemática\nUFCG | 2015\n\n\n\n\n\n\n\n\n\nBolsista de Iniciação Científica (PIBIC/UEPB)\nObjetivo Principal:\nAvaliar a qualidade das bases públicas do SIVEP-Gripe (DATASUS) de 2020 a 2026, focando em critérios de integridade, consistência temporal, cobertura e confiabilidade para subsidiar a Tomada de Decisão Orientada por Dados (DDDM).\nAbordagem Prática e Recorte:\nConstrução de uma base analítica otimizada focando nas internações por COVID-19 nas 5 Unidades Federativas (UFs) de maior volume da Região Nordeste, reduzindo o custo computacional de processamento.\nMetodologia Estatística Aplicada (via Linguagem R):\nPré-processamento & Crítica: Limpeza, identificação de dados faltantes (NA), remoção de duplicatas e tratamento de inconsistências de registro;\nAnálise Exploratória (EDA): Uso de histogramas e boxplots para detecção de valores atípicos (outliers) e análise de consistência temporal;\nTestes Não Paramétricos: Aplicação de testes de Qui-Quadrado (variáveis categóricas), Mann-Whitney (comparação entre dois grupos) e Kruskal-Wallis (múltiplos grupos)."
-  },
-  {
-    "objectID": "pagina_inicial.html#sobre-mim",
-    "href": "pagina_inicial.html#sobre-mim",
-    "title": "Prof. Valdenise Noberto dos Santos",
-    "section": "",
-    "text": "Sou Licenciada em Matemática (UFCG) e graduanda em Estatística (UEPB), com especialização em Ensino de Matemática para o Ensino Médio (IFRN). Atuo como monitora de Inferência Estatística e possuo formação em análise de dados, estatística aplicada e ferramentas computacionais (R, Excel, Power BI, Python). Tenho interesse em estimativas estatísticas, processos estocásticos, qualidade dos dados e metodologias ativas de ensino. Atualmente, sou bolsista no projeto PIBIC: Estudo Estatístico da Qualidade dos Dados Administrativos Brasileiros como Base para Tomadas de Decisão.\n\n\n\nEstatística Aplicada Ciência de Dados Inferência Estatística\n\n\n\n\n\n\nEspecialização em Estatística Computacional Aplicada\nUFMG | -\n\n\nBacharelado em Estatística\nUEPB | -\n\n\nEspecialização em Ensino de Matemática para o Ensino Médio\nIFRN | 2022\n\n\nLicenciatura em Matemática\nUFCG | 2015\n\n\n\n\n\n\n\n\n\nBolsista de Iniciação Científica (PIBIC/UEPB)\nObjetivo Principal:\nAvaliar a qualidade das bases públicas do SIVEP-Gripe (DATASUS) de 2020 a 2026, focando em critérios de integridade, consistência temporal, cobertura e confiabilidade para subsidiar a Tomada de Decisão Orientada por Dados (DDDM).\nAbordagem Prática e Recorte:\nConstrução de uma base analítica otimizada focando nas internações por COVID-19 nas 5 Unidades Federativas (UFs) de maior volume da Região Nordeste, reduzindo o custo computacional de processamento.\nMetodologia Estatística Aplicada (via Linguagem R):\nPré-processamento & Crítica: Limpeza, identificação de dados faltantes (NA), remoção de duplicatas e tratamento de inconsistências de registro;\nAnálise Exploratória (EDA): Uso de histogramas e boxplots para detecção de valores atípicos (outliers) e análise de consistência temporal;\nTestes Não Paramétricos: Aplicação de testes de Qui-Quadrado (variáveis categóricas), Mann-Whitney (comparação entre dois grupos) e Kruskal-Wallis (múltiplos grupos)."
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Nome: Valdenise Noberto dos Santos Nacionalidade: Brasileira Estado Civil: Solteira Sexo: Feminino Data de Nascimento: 09/03/1992 Idade: 34 anos Endereço: Rua Sizenando Paulino da Paixão, 354, Centro, Pedra Lavrada/PB Celular: (83) 98184-1349 WhatsApp: (83) 98184-1349 Lattes: http://cnpq.br LinkedIn: https://www.linkedin.com/in/valdenise-noberto-santos-876803298/ E-mail: valdenisenoberto2018@gmail.com"
-  },
-  {
-    "objectID": "cv.html#dados-pessoais",
-    "href": "cv.html#dados-pessoais",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Nome: Valdenise Noberto dos Santos Nacionalidade: Brasileira Estado Civil: Solteira Sexo: Feminino Data de Nascimento: 09/03/1992 Idade: 34 anos Endereço: Rua Sizenando Paulino da Paixão, 354, Centro, Pedra Lavrada/PB Celular: (83) 98184-1349 WhatsApp: (83) 98184-1349 Lattes: http://cnpq.br LinkedIn: https://www.linkedin.com/in/valdenise-noberto-santos-876803298/ E-mail: valdenisenoberto2018@gmail.com"
-  },
-  {
-    "objectID": "cv.html#formação-acadêmica",
-    "href": "cv.html#formação-acadêmica",
-    "title": "Curriculum Vitae",
-    "section": "Formação Acadêmica",
-    "text": "Formação Acadêmica\n\nGraduação em Licenciatura em Matemática (Licenciatura Plena)\n\nInstituição: Universidade Federal de Campina Grande (UFCG)\nCidade: Cuité - PB\nConclusão: Dezembro de 2015\n\nGraduação em Estatística (Bacharelado)\n\nInstituição: Universidade Estadual da Paraíba (UEPB)\nCidade: Campina Grande – PB\nSituação: Em andamento\n\nPós-Graduação: Especialização em Ensino de Matemática para o Ensino Médio\n\nInstituição: Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte (IFRN)\nCidade: Natal – RN\nSituação: Em andamento"
-  },
-  {
-    "objectID": "cv.html#experiência-profissional",
-    "href": "cv.html#experiência-profissional",
-    "title": "Curriculum Vitae",
-    "section": "Experiência Profissional",
-    "text": "Experiência Profissional\n\nEscola Municipal de Ensino Fundamental Ana Maria Gomes\n\nCidade: Nova Picuí - Paraíba\nCargo: Professora\nPeríodo: 09/04/2019 a 26/12/2019\nFunções: Ensino de Matemática no Ensino Fundamental (7° e 8° ano)\n\nEscola Municipal de Ensino Fundamental Maria Elenita de Vasconcelos Carvalho\n\nCidade: Pedra Lavrada - Paraíba\nCargo: Professora\nPeríodo: Anos Letivos de 2016 e 2017\nFunções: Ensino de Matemática no Ensino Fundamental (6° a 9° ano) e EJA; Monitora Voluntária do Projeto Mais Educação"
-  },
-  {
-    "objectID": "cv.html#qualificação-e-atividades-complementares",
-    "href": "cv.html#qualificação-e-atividades-complementares",
-    "title": "Curriculum Vitae",
-    "section": "Qualificação e Atividades Complementares",
-    "text": "Qualificação e Atividades Complementares\n\nVoluntária em Projeto de Extensão - Circo da Ciência\n\nTítulo: Circo da Ciência – Experimentação para Contextualização\nInstituição: Universidade Federal de Campina Grande (UFCG)\nCarga horária: 192 horas | Ano: 2013\nDescrição: Espaço itinerante com apresentações de experimentos de Química, Física, Biologia e Matemática nas escolas.\n\nVoluntária em Projeto de Extensão - Pré-Vestibular\n\nTítulo: Curso Pré-Vestibular Solidário\nInstituição: Universidade Federal de Campina Grande (UFCG)\nCarga horária: 120 hours | Ano: 2013\nDescrição: Professora da disciplina de Matemática."
-  },
-  {
     "objectID": "dis_consultoria.html",
     "href": "dis_consultoria.html",
     "title": "Disciplinas",
     "section": "",
-    "text": "📊 Informações✏️ Exercícios\n\n\nCódigo: GRAD.01598 | Créditos: 4 | Carga Horária: 60h\n\n\n\nExemplos Didáticos\n\n\n\n\nAtividade 1 UT2\nAtividade 2 UT2\n\n\n\n\n\n\n\n\n\n📊 Informações✏️ Exercícios\n\n\nCódigo: GRAD.00683 | Créditos: 4 | Carga Horária: 60h\n\n\n\nProjeto de Consultoria Estatística\n\n\n\n\nProjeto de Consultoria Estatística &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD\n\n\n\n\n\n\n======= &gt;&gt;&gt;&gt;&gt;&gt;&gt; 1dd5ba4 (Atualiza a aba disciplina)\n:::\n:::"
+    "text": "📊 Informações✏️ Exercícios\n\n\nCódigo: GRAD.01598 | Créditos: 4 | Carga Horária: 60h\n\n\n\nExemplos Didáticos\n\n\n\n\nAtividade 1 UT2\nAtividade 2 UT2\n\n\n\n\n\n\n\n\n\n📊 Informações✏️ Exercícios\n\n\nCódigo: GRAD.00683 | Créditos: 4 | Carga Horária: 60h\n\n\n\nProjeto de Consultoria Estatística\n\n\n\n\nProjeto de Consultoria Estatística"
   },
   {
     "objectID": "dis_consultoria.html#estatística-computacional-avançada",
@@ -87,11 +14,11 @@
     "text": "📊 Informações✏️ Exercícios\n\n\nCódigo: GRAD.01598 | Créditos: 4 | Carga Horária: 60h\n\n\n\nExemplos Didáticos\n\n\n\n\nAtividade 1 UT2\nAtividade 2 UT2"
   },
   {
-    "objectID": "projeto1.html",
-    "href": "projeto1.html",
-    "title": "Projetos de Pesquisa",
+    "objectID": "dis_consultoria.html#consultoria-estatística",
+    "href": "dis_consultoria.html#consultoria-estatística",
+    "title": "Disciplinas",
     "section": "",
-    "text": "Estudo Estatístico da Qualidade dos Dados Administrativos Brasileiros\nFinanciador: CNPq – PIBIC\nPeríodo: 2026\nCoordenação: Profª. Dra. Érika Fialho Morais Xavier\nObjetivo\nAvaliar a qualidade das bases públicas do SIVEP-Gripe (DATASUS) de 2020 a 2026, focando em critérios de integridade, consistência temporal, cobertura e confiabilidade para subsidiar a Tomada de Decisão Orientada por Dados (DDDM).\nEquipe - Profª. Dra. Érika Fialho Morais Xavier\n- Valdenise N Santos\nResultados Esperados - Submissão de 1 artigo"
+    "text": "📊 Informações✏️ Exercícios\n\n\nCódigo: GRAD.00683 | Créditos: 4 | Carga Horária: 60h\n\n\n\nProjeto de Consultoria Estatística\n\n\n\n\nProjeto de Consultoria Estatística"
   },
   {
     "objectID": "contact.html",
@@ -122,10 +49,48 @@
     "text": "Localização"
   },
   {
-    "objectID": "dis_consultoria.html#consultoria-estatística",
-    "href": "dis_consultoria.html#consultoria-estatística",
-    "title": "Disciplinas",
+    "objectID": "pagina_inicial.html",
+    "href": "pagina_inicial.html",
+    "title": "Prof. Valdenise Noberto dos Santos",
     "section": "",
-    "text": "📊 Informações✏️ Exercícios\n\n\nCódigo: GRAD.00683 | Créditos: 4 | Carga Horária: 60h\n\n\n\nProjeto de Consultoria Estatística\n\n\n\n\nProjeto de Consultoria Estatística &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD"
+    "text": "Sou Licenciada em Matemática (UFCG) e graduanda em Estatística (UEPB), com especialização em Ensino de Matemática para o Ensino Médio (IFRN). Atuo como monitora de Inferência Estatística e possuo formação em análise de dados, estatística aplicada e ferramentas computacionais (R, Excel, Power BI, Python). Tenho interesse em estimativas estatísticas, processos estocásticos, qualidade dos dados e metodologias ativas de ensino. Atualmente, sou bolsista no projeto PIBIC: Estudo Estatístico da Qualidade dos Dados Administrativos Brasileiros como Base para Tomadas de Decisão.\n\n\n\nEstatística Aplicada Ciência de Dados Inferência Estatística\n\n\n\n\n\n\nEspecialização em Estatística Computacional Aplicada\nUFMG | -\n\n\nBacharelado em Estatística\nUEPB | -\n\n\nTécnico em Planejamento e Controle da Produção Subsequente IFSULDEMINAS | -\n\n\nEspecialização em Ensino de Matemática para o Ensino Médio\nIFRN | 2022\n\n\nLicenciatura em Matemática\nUFCG | 2015\n\n\n\n\n\n\n\n\n\nBolsista de Iniciação Científica (PIBIC/UEPB)\nObjetivo Principal:\nAvaliar a qualidade das bases públicas do SIVEP-Gripe (DATASUS) de 2020 a 2026, focando em critérios de integridade, consistência temporal, cobertura e confiabilidade para subsidiar a Tomada de Decisão Orientada por Dados (DDDM).\nAbordagem Prática e Recorte:\nConstrução de uma base analítica otimizada focando nas internações por COVID-19 nas 5 Unidades Federativas (UFs) de maior volume da Região Nordeste, reduzindo o custo computacional de processamento.\nMetodologia Estatística Aplicada (via Linguagem R):\nPré-processamento & Crítica: Limpeza, identificação de dados faltantes (NA), remoção de duplicatas e tratamento de inconsistências de registro;\nAnálise Exploratória (EDA): Uso de histogramas e boxplots para detecção de valores atípicos (outliers) e análise de consistência temporal;\nTestes Não Paramétricos: Aplicação de testes de Qui-Quadrado (variáveis categóricas), Mann-Whitney (comparação entre dois grupos) e Kruskal-Wallis (múltiplos grupos)."
+  },
+  {
+    "objectID": "pagina_inicial.html#sobre-mim",
+    "href": "pagina_inicial.html#sobre-mim",
+    "title": "Prof. Valdenise Noberto dos Santos",
+    "section": "",
+    "text": "Sou Licenciada em Matemática (UFCG) e graduanda em Estatística (UEPB), com especialização em Ensino de Matemática para o Ensino Médio (IFRN). Atuo como monitora de Inferência Estatística e possuo formação em análise de dados, estatística aplicada e ferramentas computacionais (R, Excel, Power BI, Python). Tenho interesse em estimativas estatísticas, processos estocásticos, qualidade dos dados e metodologias ativas de ensino. Atualmente, sou bolsista no projeto PIBIC: Estudo Estatístico da Qualidade dos Dados Administrativos Brasileiros como Base para Tomadas de Decisão.\n\n\n\nEstatística Aplicada Ciência de Dados Inferência Estatística\n\n\n\n\n\n\nEspecialização em Estatística Computacional Aplicada\nUFMG | -\n\n\nBacharelado em Estatística\nUEPB | -\n\n\nTécnico em Planejamento e Controle da Produção Subsequente IFSULDEMINAS | -\n\n\nEspecialização em Ensino de Matemática para o Ensino Médio\nIFRN | 2022\n\n\nLicenciatura em Matemática\nUFCG | 2015\n\n\n\n\n\n\n\n\n\nBolsista de Iniciação Científica (PIBIC/UEPB)\nObjetivo Principal:\nAvaliar a qualidade das bases públicas do SIVEP-Gripe (DATASUS) de 2020 a 2026, focando em critérios de integridade, consistência temporal, cobertura e confiabilidade para subsidiar a Tomada de Decisão Orientada por Dados (DDDM).\nAbordagem Prática e Recorte:\nConstrução de uma base analítica otimizada focando nas internações por COVID-19 nas 5 Unidades Federativas (UFs) de maior volume da Região Nordeste, reduzindo o custo computacional de processamento.\nMetodologia Estatística Aplicada (via Linguagem R):\nPré-processamento & Crítica: Limpeza, identificação de dados faltantes (NA), remoção de duplicatas e tratamento de inconsistências de registro;\nAnálise Exploratória (EDA): Uso de histogramas e boxplots para detecção de valores atípicos (outliers) e análise de consistência temporal;\nTestes Não Paramétricos: Aplicação de testes de Qui-Quadrado (variáveis categóricas), Mann-Whitney (comparação entre dois grupos) e Kruskal-Wallis (múltiplos grupos)."
+  },
+  {
+    "objectID": "projeto1.html",
+    "href": "projeto1.html",
+    "title": "Projetos de Pesquisa",
+    "section": "",
+    "text": "Estudo Estatístico da Qualidade dos Dados Administrativos Brasileiros\nFinanciador: CNPq – PIBIC\nPeríodo: 2026\nCoordenação: Profª. Dra. Érika Fialho Morais Xavier\nObjetivo\nAvaliar a qualidade das bases públicas do SIVEP-Gripe (DATASUS) de 2020 a 2026, focando em critérios de integridade, consistência temporal, cobertura e confiabilidade para subsidiar a Tomada de Decisão Orientada por Dados (DDDM).\nEquipe - Profª. Dra. Érika Fialho Morais Xavier\n- Valdenise N Santos\nResultados Esperados - Submissão de 1 artigo"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projetos de Pesquisa",
+    "section": "",
+    "text": "CNPq – PIBIC (2026)\nPré-processamento, Crítica e Análise Exploratória (EDA).",
+    "crumbs": [
+      "Início",
+      "Pesquisa",
+      "Projetos de Pesquisa"
+    ]
+  },
+  {
+    "objectID": "projects.html#projetos-em-andamento",
+    "href": "projects.html#projetos-em-andamento",
+    "title": "Projetos de Pesquisa",
+    "section": "",
+    "text": "CNPq – PIBIC (2026)\nPré-processamento, Crítica e Análise Exploratória (EDA).",
+    "crumbs": [
+      "Início",
+      "Pesquisa",
+      "Projetos de Pesquisa"
+    ]
   }
 ]
