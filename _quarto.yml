@@ -11,7 +11,7 @@ website:
     search: true
     left:
       - text: "Início"
-        file: pagina_inicial.qmd
+        file: index.qmd
       - text: "Projetos"
         file: projects.qmd
       - text: "Disciplinas"
