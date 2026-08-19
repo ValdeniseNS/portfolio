@@ -4,7 +4,7 @@ title: "Disciplinas"
 
 ::: {.grid}
 
-::: {.g-col-6}
+::: {.g-col-12}
 ## Estatística Computacional Avançada
 
 ::: {.panel-tabset}
@@ -24,7 +24,7 @@ title: "Disciplinas"
 :::
 :::
 
-::: {.g-col-6}
+::: {.g-col-12}
 ## Consultoria Estatística 
 
 ::: {.panel-tabset} 
@@ -40,9 +40,14 @@ title: "Disciplinas"
 #### Projetos/Seminários 
 
 - [Projeto de Consultoria Estatística](https://github.com/ValdeniseNS/statistical_consultancy) 
+<<<<<<< HEAD
+
+:::
+:::
+=======
+>>>>>>> 1dd5ba4 (Atualiza a aba disciplina)
 
 :::
 :::
 
 :::
-
